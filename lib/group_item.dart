@@ -1,3 +1,5 @@
+library devaloop_group_item;
+
 import 'package:flutter/material.dart';
 
 class GroupItem extends StatelessWidget {
