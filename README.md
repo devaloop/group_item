@@ -3,7 +3,7 @@ GroupItem Widget
 ## Usage
 
 ```dart
-import 'package:devaloop_group_item/group_tem.dart';
+import 'package:devaloop_group_item/group_item.dart';
 import 'package:flutter/material.dart';
 
 void main() {

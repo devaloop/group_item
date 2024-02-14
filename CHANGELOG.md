@@ -1,3 +1,3 @@
-## 0.0.1
+## 0.0.2
 
-* Add GroupItem Class
+* Change file name ngroup_tem.dart to group_item.dart
