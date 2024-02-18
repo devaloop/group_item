@@ -1,6 +1,6 @@
 name: devaloop_group_item
 description: "A Flutter GroupItem Package"
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/devaloop/group_item
 
 environment:

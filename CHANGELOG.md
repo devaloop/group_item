@@ -1,3 +1,3 @@
-## 0.0.2
+## 0.0.3
 
-* Change file name ngroup_tem.dart to group_item.dart
+* Add key property to GroupContent

@@ -64,6 +64,7 @@ class GroupItem extends StatelessWidget {
 }
 
 class GroupContent {
+  final dynamic key;
   final Widget? leading;
   final String title;
   final String subtitle;
@@ -71,6 +72,7 @@ class GroupContent {
   final Detail? detail;
 
   GroupContent({
+    this.key,
     this.leading,
     required this.title,
     required this.subtitle,
